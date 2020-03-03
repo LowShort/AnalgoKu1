@@ -1,7 +1,7 @@
 /*
 	Nama    : Muhammad Iqbal Alif Fadilla
 	NPM     : 140810180020
-	Kelas   : A
+	Kelas   : B
 	Tanggal : 3 Maret 2020
 */
 
